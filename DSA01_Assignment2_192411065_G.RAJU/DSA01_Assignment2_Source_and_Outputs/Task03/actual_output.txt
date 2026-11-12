@@ -1,0 +1,6 @@
+Integer grams: 2 g
+Weight in kg: 100
+Weight in kg: 125
+Weight in kg: 155
+Weight in kg: 175
+Parcel charge: 200
