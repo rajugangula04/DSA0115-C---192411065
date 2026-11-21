@@ -1,0 +1,23 @@
+Vehicle Fleet
+B101 | Rate: 100 | Available
+T201 | Rate: 300 | Available
+C301 | Rate: 1500 | Available
+E401 | Rate: 2000 | Available
+EB501 | Rate: 5000 | Available
+
+Rental demonstration
+B101 rented successfully
+Rental charge: 300
+Late fee: 50
+Total: 350
+Vehicle returned successfully
+
+Fleet after return
+B101 | Rate: 100 | Available
+T201 | Rate: 300 | Available
+C301 | Rate: 1500 | Available
+E401 | Rate: 2000 | Available
+EB501 | Rate: 5000 | Available
+
+Electric car 2-day charge: 4400
+Electric bus 2-day charge: 10000

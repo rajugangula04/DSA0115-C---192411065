@@ -1,0 +1,16 @@
+Teaching Assistant Details
+Name: Raju
+ID: 101
+Phone: 9876543210
+Programme: CSE
+CGPA: 8.5
+Department: Computer Science
+Salary: 25000
+
+Research Scholar Details
+Name: Kavya
+ID: 102
+Phone: 9876501234
+Programme: PhD CSE
+CGPA: 9.1
+Fellowship: 15000
