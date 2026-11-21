@@ -1,0 +1,53 @@
+### Task01/billing.cpp
+$ g++ -std=c++17 -Wall -Wextra Task01/billing.cpp -o program && ./program
+OP Ravi: 1700
+IP Meena: 47500
+Total 49200
+
+
+### Task02/claim_errors.cpp
+$ g++ -std=c++17 -Wall -Wextra Task02/claim_errors.cpp -o program && ./program
+approved 40000
+audit: exceeds cover
+claim rejected: exceeds cover
+error: negative amount
+
+
+### Task02/prediction_stack_unwinding.cpp
+$ g++ -std=c++17 -Wall -Wextra Task02/prediction_stack_unwinding.cpp -o program && ./program
+~f ~main caught 42
+
+
+### Task02/prediction_rethrow.cpp
+$ g++ -std=c++17 -Wall -Wextra Task02/prediction_rethrow.cpp -o program && ./program
+ok done caught negative [log too large] caught too large 
+
+
+### Task02/error_tests.cpp
+$ g++ -std=c++17 -Wall -Wextra Task02/error_tests.cpp -o program && ./program
+resource released
+invalid argument: negative charge
+resource released
+out of range: claim above limit
+resource released
+invalid argument: stod
+valid 100
+resource released
+allocation failure caught
+
+
+### Task03/benchmark.cpp
+$ g++ -std=c++17 -O2 -Wall -Wextra Task03/benchmark.cpp -o program && ./program
+n=1000 virtual_ms=0.002902 switch_ms=0.000924 totals_equal=1 total=2.46e+07
+n=1000000 virtual_ms=4.4911 switch_ms=3.74455 totals_equal=1 total=2.46e+10
+n=10000000 virtual_ms=51.6187 switch_ms=36.5883 totals_equal=1 total=2.46e+11
+invalid=0% return_ms=0.161637 exception_ms=0.161605
+invalid=1% return_ms=2.29381 exception_ms=12.5761
+invalid=50% return_ms=2.51207 exception_ms=484.319
+
+
+### Task04/extension.cpp
+$ g++ -std=c++17 -Wall -Wextra Task04/extension.cpp -o program && ./program
+Emergency total=2500
+self covered=2500
+corporate covered=2000
