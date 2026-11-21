@@ -1,5 +1,0 @@
-3.5
-4
-Account destroyed
-SeniorAccount destroyed
-Account destroyed
